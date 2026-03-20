@@ -1,0 +1,23 @@
+# Análisis de Arquitectura de Software
+
+El video me ayudó a entender mejor lo importante que es la arquitectura en el desarrollo de software. Antes pensaba que solo se trataba de programar y que funcionara, 
+
+pero ahora veo que la forma en que se organiza todo el sistema es clave para que el proyecto funcione bien a largo plazo.
+
+Algo que me llamó mucho la atención es que la arquitectura define cómo se conectan las distintas partes del sistema. 
+
+Si eso está mal hecho desde el principio, después se vuelve muy difícil arreglarlo o hacer mejoras sin que todo se rompa.
+
+También entendí que una buena arquitectura no solo ayuda a que el sistema funcione mejor,
+
+sino que facilita el trabajo cuando hay que hacer cambios o cuando trabajan varias personas en el mismo proyecto.
+
+Por ejemplo, en una aplicación como una tienda online, si la arquitectura está bien diseñada, 
+
+se pueden agregar nuevas funciones como pagos, envíos o usuarios sin afectar todo el sistema. 
+
+En cambio, si está mal organizada, cualquier cambio puede generar errores en otras partes y hacer el sistema inestable.
+
+Lo que más me impactó fue darme cuenta de que muchas decisiones importantes se toman desde el inicio, y que eso puede afectar todo el desarrollo después.
+
+En mi opinión, este tema es fundamental, porque no se trata solo de que el programa funcione, sino de hacerlo bien pensado, ordenado y preparado para el futuro.
